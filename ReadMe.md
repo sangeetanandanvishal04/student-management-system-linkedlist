@@ -24,7 +24,7 @@ C Language
    ## Clone the Repository
     First, clone the repository to your local machine:
     ```bash
-    git clone https://github.com/sangeetanandanvishal04/sms_linkedlist.git
+    git clone https://github.com/sangeetanandanvishal04/student-management-system-linkedlist.git
 
    ## 2. Run the Repository:
     a) Navigate to the directory containing the script (run.sh): cd directory_name
