@@ -366,7 +366,7 @@ int main() {
     
     clearCache();
 
-    clock_t end = clock();  // End the timer
+    clock_t end = clock();
     double timeTaken = (double)(end - start) / CLOCKS_PER_SEC;
 
     fclose(queueFile);
